@@ -32,8 +32,13 @@ We use Twitter conversation corpus: https://www.aclweb.org/anthology/D19-1202/
 Please contact to the authors of the paper to get the corpus.
 
 
-## Supports
-Please write questions in this repos issues section if you meet any problems.
+## Discussion
+Please let us know if you have any questions or requests by issues or email. (First author of the paper page: https://nosyu.github.io/)
+
 
 ## Reference
-- TBD
+- https://github.com/NoSyu/VHUCM
+
+
+## Plan
+- Do future work that describes in the paper
